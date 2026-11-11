@@ -46,7 +46,7 @@
 - **Bản chất dự án:** Giải pháp nhân vật số (**Digital Human**) đại diện cho công nghệ tương tác thế hệ mới kết hợp Photobooth AI tại hội nghị quốc tế *'AI for Good 2026'*.
 - **Giải pháp kỹ thuật:** Đồng bộ hóa 3 cấu phần cốt lõi: Module nhận dạng giọng nói tự động (**Speech-to-Text**) lọc tiếng ồn sự kiện; Trí tuệ nhân tạo hội thoại (**LLM GPT-4 API**) xử lý ngữ cảnh sâu; và Module chuyển văn bản thành giọng nói (**Text-to-Speech**) đồng bộ hóa khẩu hình nhân vật ảo theo thời gian thực (**Viseme-based Lip Sync**).
 - **Thành tựu:** Tạo ra trải nghiệm hội thoại tự nhiên như người thật với **độ trễ phản hồi tổng thể dưới 2 giây**.
-- **Repo / Mã nguồn:** [quangzz/ai-for-good-digital-human](https://github.com/quangzz/ai-for-good-digital-human) *(Public)*
+- **Repo / Mã nguồn:** [quangzz/digital-human-ai-for-good](https://github.com/quangzz/digital-human-ai-for-good) *(Public)*
 
 #### 5. 🏛️ Dự Án Đại Sứ Ảo AI Hỏi Đáp Lịch Sử (Hệ thống RAG) — *Triển lãm Quốc gia*
 - **Bản chất dự án:** Triển khai AI Chatbot chuyên sâu phục vụ khách tham quan tìm hiểu kiến thức lịch sử tại Triển lãm *'80 năm Hành trình Độc lập - Tự do - Hạnh phúc'*.
