@@ -1,4 +1,4 @@
-# 👋 Xin chào, tôi là Phạm Phúc Quang (Quang Phạm Phúc)
+# 👋 Xin chào, tôi là Phạm Phúc Quang
 
 ### 🚀 AI-Driven Software Engineer | Creative Technologist | Full-Stack Developer
 
